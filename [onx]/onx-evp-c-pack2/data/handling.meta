@@ -1365,7 +1365,78 @@
     </Item>
     <!-- Pickups End -->
     <!-- Motorcyles/Super Sports Start -->
-    <!-- Police Verus (0040-NX) -->
+    <!-- Maibatsu Sunsetter -->
+    <Item type="CHandlingData">
+      <handlingName>ONX_POLSUNSET</handlingName>
+      <fMass value="300.0000" />
+      <fInitialDragCoeff value="15.0000" />
+      <fDownforceModifier value="0.0000" />
+      <fPercentSubmerged value="85.0000" />
+      <vecCentreOfMassOffset x="0.0000" y="0.0000" z="0.0000" />
+      <vecInertiaMultiplier x="1.0000" y="1.3000" z="1.5000" />
+      <fDriveBiasFront value="0.0000" />
+      <nInitialDriveGears value="1" />
+      <fInitialDriveForce value="0.1000" />
+      <fDriveInertia value="0.5000" />
+      <fClutchChangeRateScaleUpShift value="5.0000" />
+      <fClutchChangeRateScaleDownShift value="5.0000" />
+      <fInitialDriveMaxFlatVel value="10.0000" />
+      <fBrakeForce value="0.0500" />
+      <fBrakeBiasFront value="0.5000" />
+      <fHandBrakeForce value="0.1000" />
+      <fSteeringLock value="20.0000" />
+      <fTractionCurveMax value="1.9000" />
+      <fTractionCurveMin value="1.3000" />
+      <fTractionCurveLateral value="30.0000" />
+      <fTractionSpringDeltaMax value="0.1500" />
+      <fLowSpeedTractionLossMult value="0.3000" />
+      <fCamberStiffnesss value="0.0000" />
+      <fTractionBiasFront value="0.4850" />
+      <fTractionLossMult value="0.4000" />
+      <fSuspensionForce value="1.9000" />
+      <fSuspensionCompDamp value="1.4000" />
+      <fSuspensionReboundDamp value="0.8000" />
+      <fSuspensionUpperLimit value="0.0700" />
+      <fSuspensionLowerLimit value="-0.0800" />
+      <fSuspensionRaise value="0.0000" />
+      <fSuspensionBiasFront value="0.5000" />
+      <fAntiRollBarForce value="0.2000" />
+      <fAntiRollBarBiasFront value="0.6000" />
+      <fRollCentreHeightFront value="0.1500" />
+      <fRollCentreHeightRear value="0.1500" />
+      <fCollisionDamageMult value="0.7000" />
+      <fWeaponDamageMult value="1.0000" />
+      <fDeformationDamageMult value="0.3000" />
+      <fEngineDamageMult value="1.5000" />
+      <fPetrolTankVolume value="65.0000" />
+      <fPetrolConsumptionRate value="null" />
+      <fOilVolume value="5.0000" />
+      <fSeatOffsetDistX value="0.0000" />
+      <fSeatOffsetDistY value="0.0000" />
+      <fSeatOffsetDistZ value="0.0000" />
+      <nMonetaryValue value="80000" />
+      <fPopUpLightRotation value="0.0000" />
+      <strModelFlags>440010</strModelFlags>
+      <strHandlingFlags>101</strHandlingFlags>
+      <strDamageFlags>0</strDamageFlags>
+      <AIHandling>AVERAGE</AIHandling>
+      <SubHandlingData>
+        <Item type="CCarHandlingData">
+          <fBackEndPopUpCarImpulseMult value="0.0750" />
+          <fBackEndPopUpBuildingImpulseMult value="0.0300" />
+          <fBackEndPopUpMaxDeltaSpeed value="0.2500" />
+          <fToeFront value="0.0000" />
+          <fToeRear value="0.0000" />
+          <fCamberFront value="0.0000" />
+          <fCamberRear value="0.0000" />
+          <fCastor value="0.0000" />
+          <strAdvancedFlags>4001000</strAdvancedFlags>
+        </Item>
+        <Item type="NULL" />
+        <Item type="NULL" />
+      </SubHandlingData>
+    </Item>
+    <!-- Motorcyles/Super Sports End -->
     <!-- Police Coquette Interceptor (0052-NX) -->
     <Item type="CHandlingData">
       <handlingName>ONX_POLCOQ</handlingName>

@@ -253,7 +253,7 @@
       <modelName>onx_polsandk</modelName>
       <txdName>onx_polsandk</txdName>
       <handlingId>ONX_POLSANDK</handlingId>
-      <gameName>ONXPOLSANDK</gameName>
+      <gameName>POLSANDK</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -385,7 +385,7 @@
       <modelName>onx_polsandk2</modelName>
       <txdName>onx_polsandk2</txdName>
       <handlingId>ONX_POLSANDK2</handlingId>
-      <gameName>ONXPOLSANDK2</gameName>
+      <gameName>POLSANDK2</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -517,7 +517,7 @@
       <modelName>onx_polsandk3</modelName>
       <txdName>onx_polsandk3</txdName>
       <handlingId>ONX_POLSANDK3</handlingId>
-      <gameName>ONXPOLSANDK3</gameName>
+      <gameName>POLSANDK3</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -649,7 +649,7 @@
       <modelName>onx_polsandk4</modelName>
       <txdName>onx_polsandk4</txdName>
       <handlingId>ONX_POLSANDK4</handlingId>
-      <gameName>ONXPOLSANDK4</gameName>
+      <gameName>POLSANDK4</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -781,7 +781,7 @@
       <modelName>onx_polsandk5</modelName>
       <txdName>onx_polsandk5</txdName>
       <handlingId>ONX_POLSANDK5</handlingId>
-      <gameName>ONXPOLSANDK5</gameName>
+      <gameName>POLSANDK5</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -913,7 +913,7 @@
       <modelName>onx_polsandk6</modelName>
       <txdName>onx_polsandk6</txdName>
       <handlingId>ONX_POLSANDK6</handlingId>
-      <gameName>ONXPOLSANDK6</gameName>
+      <gameName>POLSANDK6</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1574,6 +1574,116 @@
     </Item>
     <!-- Pickups End -->
     <!-- Motorcyles/Super Sports Start -->
+    <!-- Maibatsu Sunsetter -->
+    <Item>
+      <modelName>onx_polsunset</modelName>
+      <txdName>onx_polsunset</txdName>
+      <handlingId>ONX_POLSUNSET</handlingId>
+      <gameName>POLSUNSET</gameName>
+      <vehicleMakeName>MAIBATSU</vehicleMakeName>
+      <expressionDictName>null</expressionDictName>
+      <expressionName>null</expressionName>
+      <animConvRoofDictName>null</animConvRoofDictName>
+      <animConvRoofName>null</animConvRoofName>
+      <animConvRoofWindowsAffected />
+      <ptfxAssetName>null</ptfxAssetName>
+      <audioNameHash>caddy</audioNameHash>
+      <layout>LAYOUT_ONX_POLSUNSET</layout>
+      <coverBoundOffsets>BLAZER4_COVER_OFFSET_INFO</coverBoundOffsets>
+      <POVTuningInfo>BLAZER_POV_TUNING</POVTuningInfo>
+      <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
+      <scenarioLayout />
+      <cameraName>FOLLOW_UPRIGHT_BIKE_CAMERA</cameraName>
+      <aimCameraName>BIKE_AIM_CAMERA</aimCameraName>
+      <bonnetCameraName>BIKE_BLAZER4_POV_CAMERA</bonnetCameraName>
+      <povCameraName>BIKE_BLAZER4_POV_CAMERA</povCameraName>
+      <FirstPersonDriveByIKOffset x="0.000000" y="-0.060000" z="0.000000" />
+      <FirstPersonDriveByUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonProjectileDriveByIKOffset x="0.000000" y="-0.060000" z="0.000000" />
+      <FirstPersonProjectileDriveByPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+      <FirstPersonMobilePhoneOffset x="0.155000" y="0.315000" z="0.520000" />
+      <FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.223000" z="0.425000" />
+      <PovCameraOffset x="0.000000" y="0.000000" z="0.200000" />
+      <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
+      <PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
+      <PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
+      <vfxInfoName>VFXVEHICLEINFO_QUAD_GENERIC</vfxInfoName>
+      <shouldUseCinematicViewMode value="true" />
+      <shouldCameraTransitionOnClimbUpDown value="false" />
+      <shouldCameraIgnoreExiting value="false" />
+      <AllowPretendOccupants value="false" />
+      <AllowJoyriding value="true" />
+      <AllowSundayDriving value="false" />
+      <AllowBodyColorMapping value="true" />
+      <wheelScale value="0.072605" />
+      <wheelScaleRear value="0.072605" />
+      <dirtLevelMin value="0.000000" />
+      <dirtLevelMax value="0.850000" />
+      <envEffScaleMin value="0.000000" />
+      <envEffScaleMax value="1.000000" />
+      <envEffScaleMin2 value="0.000000" />
+      <envEffScaleMax2 value="1.000000" />
+      <damageMapScale value="0.600000" />
+      <damageOffsetScale value="0.100000" />
+      <diffuseTint value="0x00FFFFFF" />
+      <steerWheelMult value="0.500000" />
+      <HDTextureDist value="5.000000" />
+      <lodDistances content="float_array">
+        15.000000
+        30.000000
+        50.000000
+        100.000000
+        500.000000
+        500.000000
+      </lodDistances>
+      <minSeatHeight value="10" />
+      <identicalModelSpawnDistance value="20" />
+      <maxNumOfSameColor value="10" />
+      <defaultBodyHealth value="1000.000000" />
+      <pretendOccupantsScale value="1.000000" />
+      <visibleSpawnDistScale value="1.000000" />
+      <trackerPathWidth value="2.000000" />
+      <weaponForceMult value="1.000000" />
+      <frequency value="100" />
+      <swankness>SWANKNESS_1</swankness>
+      <maxNum value="3" />
+      <flags>FLAG_AVERAGE_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS FLAG_DONT_TIMESLICE_WHEELS FLAG_IS_ELECTRIC  FLAG_HAS_NO_ROOF FLAG_ALLOW_TARGETING_OF_OCCUPANTS FLAG_CONSIDERED_FOR_VEHICLE_ENTRY_WHEN_STOOD_ON FLAG_PEDS_INSIDE_CAN_BE_SET_ON_FIRE_MP FLAG_DISABLE_AUTO_VAULT_ON_VEHICLE FLAG_ALLOW_HATS_NO_ROOF</flags>
+      <type>VEHICLE_TYPE_QUADBIKE</type>
+      <plateType>VPT_NONE</plateType>
+      <dashboardType>VDT_RACE</dashboardType>
+      <vehicleClass>VC_EMERGENCY</vehicleClass>
+      <wheelType>VWT_OFFROAD</wheelType>
+      <trailers />
+      <additionalTrailers />
+      <drivers />
+      <extraIncludes />
+      <doorsWithCollisionWhenClosed />
+      <driveableDoors />
+      <bumpersNeedToCollideWithMap value="false" />
+      <needsRopeTexture value="false" />
+      <requiredExtras />
+      <rewards />
+      <cinematicPartCamera>
+        <Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
+        <Item>WHEEL_FRONT_LEFT_CAMERA</Item>
+        <Item>WHEEL_REAR_RIGHT_CAMERA</Item>
+        <Item>WHEEL_REAR_LEFT_CAMERA</Item>
+      </cinematicPartCamera>
+      <NmBraceOverrideSet />
+      <buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
+      <buoyancySphereSizeScale value="1.000000" />
+      <pOverrideRagdollThreshold type="NULL" />
+      <firstPersonDrivebyData>
+        <Item>BIKE_BLAZER4_FRONT</Item>
+      </firstPersonDrivebyData>
+    </Item>
     <!-- Motorcyles/Super Sports End -->
     <!-- Sports/Coupes Start -->
     <!-- Police Coquette Interceptor (0052-NX) -->
@@ -1911,7 +2021,7 @@
       <modelName>onx_polmav</modelName>
       <txdName>onx_polmav</txdName>
       <handlingId>ONX_POLMAV</handlingId>
-      <gameName>ONXPOLMAV</gameName>
+      <gameName>POLMAV</gameName>
       <vehicleMakeName>BUCKING</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -2033,7 +2143,7 @@
       <modelName>onx_polmav2</modelName>
       <txdName>onx_polmav2</txdName>
       <handlingId>ONX_POLMAV</handlingId>
-      <gameName>ONXPOLMAV2</gameName>
+      <gameName>POLMAV2</gameName>
       <vehicleMakeName>BUCKING</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -2285,7 +2395,7 @@
       <modelName>onx_poljog2</modelName>
       <txdName>onx_poljog2</txdName>
       <handlingId>ONX_POLJOG2</handlingId>
-      <gameName>ONXPOLJOG2</gameName>
+      <gameName>POLJOG2</gameName>
       <vehicleMakeName>BENEFACTOR</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -2415,7 +2525,7 @@
       <modelName>onx_poljog3</modelName>
       <txdName>onx_poljog3</txdName>
       <handlingId>ONX_POLJOG3</handlingId>
-      <gameName>ONXPOLJOG3</gameName>
+      <gameName>POLJOG3</gameName>
       <vehicleMakeName>BENEFACTOR</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -2545,7 +2655,7 @@
       <modelName>onx_poljog4</modelName>
       <txdName>onx_poljog4</txdName>
       <handlingId>ONX_POLJOG4</handlingId>
-      <gameName>ONXPOLJOG4</gameName>
+      <gameName>POLJOG4</gameName>
       <vehicleMakeName>BENEFACTOR</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -2737,6 +2847,11 @@
     </Item>
     <!-- Pickups Txd End -->
     <!-- Motorcyles/Super Sports Txd Start -->
+    <!-- Mobility Scooter TXD -->
+    <Item>
+      <parent>vehicles_biker_shared</parent>
+      <child>onx_polsunset</child>
+    </Item>
     <!-- Motorcyles/Super Sports Txd End -->
     <!-- Sports/Coupe Txd Start -->
     <!-- Police Coquette Interceptor (0052-NX) -->

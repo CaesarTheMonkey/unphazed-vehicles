@@ -3,7 +3,7 @@ game 'gta5'
 
 dependency '/assetpacks'
 
-version '2.1.0'
+version '2.1.1'
 lua54 'yes'
 
 server_scripts {

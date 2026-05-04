@@ -123,7 +123,7 @@
       <modelName>onx_ambbison</modelName>
       <txdName>onx_ambbison</txdName>
       <handlingId>ONX_AMBBISON</handlingId>
-      <gameName>ONXAMBBISON</gameName>
+      <gameName>AMBBISON</gameName>
       <vehicleMakeName>BRAVADO</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -257,7 +257,7 @@
       <modelName>onx_ambking</modelName>
       <txdName>onx_ambking</txdName>
       <handlingId>ONX_AMBKING</handlingId>
-      <gameName>ONXAMBKING</gameName>
+      <gameName>AMBKING</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -391,7 +391,7 @@
       <modelName>onx_ambkee</modelName>
       <txdName>onx_ambkee</txdName>
       <handlingId>ONX_AMBKEE</handlingId>
-      <gameName>ONXAMBKEE</gameName>
+      <gameName>AMBKEE</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -525,7 +525,7 @@
       <modelName>onx_ambkee2</modelName>
       <txdName>onx_ambkee2</txdName>
       <handlingId>ONX_AMBKEE2</handlingId>
-      <gameName>ONXAMBKEE2</gameName>
+      <gameName>AMBKEE2</gameName>
       <vehicleMakeName>VAPID</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -661,7 +661,7 @@
       <modelName>onx_ambjog2</modelName>
       <txdName>onx_ambjog2</txdName>
       <handlingId>ONX_AMBJOG2</handlingId>
-      <gameName>ONXAMBJOG2</gameName>
+      <gameName>AMBJOG2</gameName>
       <vehicleMakeName>BENEFACTOR</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -803,7 +803,7 @@
       <modelName>onx_ambjog3</modelName>
       <txdName>onx_ambjog3</txdName>
       <handlingId>ONX_AMBJOG3</handlingId>
-      <gameName>ONXAMBJOG3</gameName>
+      <gameName>AMBJOG3</gameName>
       <vehicleMakeName>BENEFACTOR</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -947,7 +947,7 @@
       <modelName>onx_ambjog</modelName>
       <txdName>onx_ambjog</txdName>
       <handlingId>ONX_AMBJOG</handlingId>
-      <gameName>ONXAMBJOG</gameName>
+      <gameName>AMBJOG</gameName>
       <vehicleMakeName>BENEFACTOR</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>

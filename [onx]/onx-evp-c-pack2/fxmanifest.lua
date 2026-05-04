@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 author 'ONX'
 description 'WiseGuy Emergency Vehicles Pack'
-version '2.1.0'
+version '2.1.1'
 lua54 'yes'
 
 data_file 'HANDLING_FILE' 'data/handling.meta'
